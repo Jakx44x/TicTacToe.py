@@ -1,5 +1,4 @@
 # TicTacToe.py
 My very first program. It just so happens to be TicTac Toe
 
-I wrote it in Python, and I've been told its terribly inefficient code.
-I must agree on this point, as I've learned to do it much better since then.
+This is very poorly written, but I keep it here as a memento to how far I've come
