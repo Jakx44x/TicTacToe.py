@@ -9,7 +9,7 @@ class TicTacToe:
 
     def game(self):
         while True:
-            self.player = "Player 1"
+            self.player = "Player a"
             self.move = self.choose_move(self.player)
             self.move = self.is_it_a_valid_move(self.move)
             self.move = self.check_board(self.move)
@@ -17,7 +17,7 @@ class TicTacToe:
             self.game_over()
             self.cats_game()
 
-            self.player = "Player 2"
+            self.player = "Player b"
             self.move = self.choose_move(self.player)
             self.move = self.is_it_a_valid_move(self.move)
             self.move = self.check_board(self.move)
